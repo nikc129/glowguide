@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 import express from 'express';
 import path from 'path';
 import multer from 'multer';
@@ -21,7 +23,7 @@ app.use(cors({
 }));
 
 // Replace with your actual Google Cloud API key
-const apiKey = 'AIzaSyD8DMN__y4IgU2szkcXRiqLLyGBLi3hOrw';
+const apiKey = GOOGLE_API_KEY;
 
 // Initialize the Gemini API client
 const genAI = new GoogleGenerativeAI(apiKey);
