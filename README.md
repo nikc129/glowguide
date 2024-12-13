@@ -3,6 +3,8 @@
 
 **GlowGuide** is a personalized skincare recommendation tool that uses image analysis to assess skin conditions and provide tailored skincare advice. By uploading a photo of their skin, users can receive product suggestions and skincare routines based on their unique skin needs, helping them achieve a healthy, glowing complexion.
 
+**[View the Project](https://glowguidee.onrender.com/)**
+
 ---
 
 ## Features
@@ -108,3 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Machine Learning Model**: For detecting skin conditions such as acne, pigmentation, etc.
 
 ---
+
+Simply replace `https://your-project-link.com` with the actual URL where your project is hosted or deployed.
+
+Let me know if you need further adjustments!
