@@ -111,6 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Simply replace `https://your-project-link.com` with the actual URL where your project is hosted or deployed.
 
-Let me know if you need further adjustments!
